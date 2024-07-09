@@ -2,7 +2,7 @@
 
 Este es el repo de mi proyecto y aquí le paso algunas de las indicaciones que pueden ser necesarias para ejecutarlo correctamente:
 
-1. La tabla inicial con el archivo CSV sin tratar ni transformar, la nombré `StagingNutricion` en el esquema `dbo`.
+1. La tabla inicial con el archivo CSV se encuentra en le backup de la base de datos que le agregue en el repo, le pido utilice esa para que los tipos de datos coincidan con los trabajados, la tabla la nombré `StagingNutricion` en el esquema `dbo`.
 2. Los archivos de código de Python están nombrados en orden desde la `pt0` hasta la `pt3`, cada uno con sus respectivos loggings para mandar los mensajes correspondientes.
 3. No es necesario correr ningún query en SQL Server.
 4. En la `pt3` es necesario que cambie el nombre del server, ya que con `pyodbc` no me permitió usar `localhost`, entonces le pediría que para ese cambie al nombre de su servidor local.
