@@ -1,0 +1,5 @@
+2024-07-09 10:17:48,494:ERROR:La tablas para datos transformados no pudo crearse: [Errno 2] No such file or directory: 'QueryTransformedNutricionsql.sql'
+2024-07-09 10:18:28,687:INFO:Drop y creacion de la tabla vacia para datos transformados exitosa.
+2024-07-09 10:18:45,135:INFO:Drop y creacion de la tabla vacia para datos transformados exitosa.
+2024-07-09 10:46:07,718:INFO:Drop y creacion de la tabla vacia para datos transformados exitosa.
+2024-07-09 11:40:46,550:INFO:Drop y creacion de la tabla vacia para datos transformados exitosa.

@@ -1,0 +1,71 @@
+2024-07-09 11:45:21,947 - ERROR - Error: ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (5); [08001] [Microsoft][ODBC SQL Server Driver]Invalid connection string attribute (0)')
+2024-07-09 11:45:21,948 - WARNING - No se pudo establecer la conexión.
+2024-07-09 11:46:00,373 - ERROR - Error: ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (5); [08001] [Microsoft][ODBC SQL Server Driver]Invalid connection string attribute (0)')
+2024-07-09 11:46:00,374 - WARNING - No se pudo establecer la conexión.
+2024-07-09 11:46:31,562 - ERROR - Error: ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (5); [08001] [Microsoft][ODBC SQL Server Driver]Invalid connection string attribute (0)')
+2024-07-09 11:46:31,563 - WARNING - No se pudo establecer la conexión.
+2024-07-09 11:47:30,376 - ERROR - Error: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server]Invalid connection string attribute (0); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server]Invalid connection string attribute (0)")
+2024-07-09 11:47:30,377 - WARNING - No se pudo establecer la conexión.
+2024-07-09 11:47:45,506 - ERROR - Error: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server]Invalid connection string attribute (0); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user ''. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server]Invalid connection string attribute (0)")
+2024-07-09 11:47:45,507 - WARNING - No se pudo establecer la conexión.
+2024-07-09 11:48:15,308 - INFO - Ejecutando script 'DimLocation.sql' en la base de datos 'nutricion'.
+2024-07-09 11:49:38,790 - INFO - Script 'DimLocation.sql' ejecutado correctamente en 'nutricion'.
+2024-07-09 11:49:38,793 - INFO - Cambiando a la base de datos 'Dimensionalnutricion' para insertar datos en la tabla 'DimLocation.sql'.
+2024-07-09 11:49:38,793 - INFO - Insertando datos en la tabla 'DimLocation'.
+2024-07-09 11:49:38,830 - INFO - Insertadas 55 filas en 'DimLocation'.
+2024-07-09 11:49:38,830 - INFO - Ejecutando script 'DimClass.sql' en la base de datos 'nutricion'.
+2024-07-09 11:49:38,904 - INFO - Script 'DimClass.sql' ejecutado correctamente en 'nutricion'.
+2024-07-09 11:49:38,904 - INFO - Cambiando a la base de datos 'Dimensionalnutricion' para insertar datos en la tabla 'DimClass.sql'.
+2024-07-09 11:49:38,904 - INFO - Insertando datos en la tabla 'DimClass'.
+2024-07-09 11:49:38,907 - INFO - Insertadas 3 filas en 'DimClass'.
+2024-07-09 11:49:38,908 - INFO - Ejecutando script 'DimTopic.sql' en la base de datos 'nutricion'.
+2024-07-09 11:49:38,984 - INFO - Script 'DimTopic.sql' ejecutado correctamente en 'nutricion'.
+2024-07-09 11:49:38,984 - INFO - Cambiando a la base de datos 'Dimensionalnutricion' para insertar datos en la tabla 'DimTopic.sql'.
+2024-07-09 11:49:38,985 - INFO - Insertando datos en la tabla 'DimTopic'.
+2024-07-09 11:49:38,990 - INFO - Insertadas 3 filas en 'DimTopic'.
+2024-07-09 11:49:38,990 - INFO - Ejecutando script 'DimQuestion.sql' en la base de datos 'nutricion'.
+2024-07-09 11:49:39,091 - INFO - Script 'DimQuestion.sql' ejecutado correctamente en 'nutricion'.
+2024-07-09 11:49:39,091 - INFO - Cambiando a la base de datos 'Dimensionalnutricion' para insertar datos en la tabla 'DimQuestion.sql'.
+2024-07-09 11:49:39,091 - INFO - Insertando datos en la tabla 'DimQuestion'.
+2024-07-09 11:49:39,098 - INFO - Insertadas 9 filas en 'DimQuestion'.
+2024-07-09 11:49:39,098 - INFO - Ejecutando script 'DimStratCat1.sql' en la base de datos 'nutricion'.
+2024-07-09 11:49:39,160 - INFO - Script 'DimStratCat1.sql' ejecutado correctamente en 'nutricion'.
+2024-07-09 11:49:39,160 - INFO - Cambiando a la base de datos 'Dimensionalnutricion' para insertar datos en la tabla 'DimStratCat1.sql'.
+2024-07-09 11:49:39,160 - INFO - Insertando datos en la tabla 'DimStratCat1'.
+2024-07-09 11:49:39,167 - INFO - Insertadas 7 filas en 'DimStratCat1'.
+2024-07-09 11:49:39,167 - INFO - Ejecutando script 'DimStrat1.sql' en la base de datos 'nutricion'.
+2024-07-09 11:49:39,235 - INFO - Script 'DimStrat1.sql' ejecutado correctamente en 'nutricion'.
+2024-07-09 11:49:39,235 - INFO - Cambiando a la base de datos 'Dimensionalnutricion' para insertar datos en la tabla 'DimStrat1.sql'.
+2024-07-09 11:49:39,235 - INFO - Insertando datos en la tabla 'DimStrat1'.
+2024-07-09 11:49:39,252 - INFO - Insertadas 29 filas en 'DimStrat1'.
+2024-07-09 11:49:39,252 - INFO - Ejecutando script 'DimAge.sql' en la base de datos 'nutricion'.
+2024-07-09 11:49:39,284 - INFO - Script 'DimAge.sql' ejecutado correctamente en 'nutricion'.
+2024-07-09 11:49:39,284 - INFO - Cambiando a la base de datos 'Dimensionalnutricion' para insertar datos en la tabla 'DimAge.sql'.
+2024-07-09 11:49:39,284 - INFO - Insertando datos en la tabla 'DimAge'.
+2024-07-09 11:49:39,289 - INFO - Insertadas 7 filas en 'DimAge'
+2024-07-09 11:49:39,290 - INFO - Ejecutando script 'DimEducation.sql' en la base de datos 'nutricion'.
+2024-07-09 11:49:39,324 - INFO - Script 'DimEducation.sql' ejecutado correctamente en 'nutricion'.
+2024-07-09 11:49:39,325 - INFO - Cambiando a la base de datos 'Dimensionalnutricion' para insertar datos en la tabla 'DimEducation.sql'.
+2024-07-09 11:49:39,325 - INFO - Insertando datos en la tabla 'DimEducation'.
+2024-07-09 11:49:39,328 - INFO - Insertadas 5 filas en 'DimEducation'
+2024-07-09 11:49:39,329 - INFO - Ejecutando script 'DimGender.sql' en la base de datos 'nutricion'.
+2024-07-09 11:49:39,360 - INFO - Script 'DimGender.sql' ejecutado correctamente en 'nutricion'.
+2024-07-09 11:49:39,360 - INFO - Cambiando a la base de datos 'Dimensionalnutricion' para insertar datos en la tabla 'DimGender.sql'.
+2024-07-09 11:49:39,360 - INFO - Insertando datos en la tabla 'DimGender'.
+2024-07-09 11:49:39,363 - INFO - Insertadas 3 filas en 'DimGender'
+2024-07-09 11:49:39,364 - INFO - Ejecutando script 'DimIncome.sql' en la base de datos 'nutricion'.
+2024-07-09 11:49:39,398 - INFO - Script 'DimIncome.sql' ejecutado correctamente en 'nutricion'.
+2024-07-09 11:49:39,398 - INFO - Cambiando a la base de datos 'Dimensionalnutricion' para insertar datos en la tabla 'DimIncome.sql'.
+2024-07-09 11:49:39,399 - INFO - Insertando datos en la tabla 'DimIncome'.
+2024-07-09 11:49:39,406 - INFO - Insertadas 8 filas en 'DimIncome'
+2024-07-09 11:49:39,407 - INFO - Ejecutando script 'DimRace.sql' en la base de datos 'nutricion'.
+2024-07-09 11:49:39,447 - INFO - Script 'DimRace.sql' ejecutado correctamente en 'nutricion'.
+2024-07-09 11:49:39,447 - INFO - Cambiando a la base de datos 'Dimensionalnutricion' para insertar datos en la tabla 'DimRace.sql'.
+2024-07-09 11:49:39,448 - INFO - Insertando datos en la tabla 'DimRace'.
+2024-07-09 11:49:39,453 - INFO - Insertadas 9 filas en 'DimRace'
+2024-07-09 11:49:39,454 - INFO - Ejecutando script 'FactNutricion.sql' en la base de datos 'nutricion'.
+2024-07-09 11:49:39,472 - INFO - Script 'FactNutricion.sql' ejecutado correctamente en 'nutricion'.
+2024-07-09 11:49:40,434 - INFO - Cambiando a la base de datos 'Dimensionalnutricion' para insertar datos en la tabla 'FactNutricion.sql'.
+2024-07-09 11:49:40,435 - INFO - Insertando datos en la tabla 'FactNutricion'.
+2024-07-09 11:50:06,367 - INFO - Insertadas 93249 filas en 'FactNutricion'
+2024-07-09 11:50:06,368 - INFO - Conexión cerrada.
